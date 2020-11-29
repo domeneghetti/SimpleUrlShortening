@@ -1,2 +1,2 @@
 # SimpleUrlShortening
-A simple micro-skas for Url shortening.
+A simple micro-saas for Url shortening.
